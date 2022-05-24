@@ -1,0 +1,22 @@
+{/home/lam/data2/lampn182628/embedded system/assignment/fpga_hls_programming/hdl/led.v} {1 {vlog -work work -vopt -stats=none {/home/lam/data2/lampn182628/embedded system/assignment/fpga_hls_programming/hdl/led.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module led
+
+Top level modules:
+	led
+
+} {} {}} {/home/lam/data2/lampn182628/embedded system/assignment/fpga_hls_programming/sim/led/tb_led.v} {1 {vlog -work work -vopt -stats=none {/home/lam/data2/lampn182628/embedded system/assignment/fpga_hls_programming/sim/led/tb_led.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module tb_led
+
+Top level modules:
+	tb_led
+
+} {} {}} {/home/lam/data2/lampn182628/embedded system/assignment/fpga_hls_programming/inc/IBUFDS.v} {1 {vlog -work work -vopt -stats=none {/home/lam/data2/lampn182628/embedded system/assignment/fpga_hls_programming/inc/IBUFDS.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module IBUFDS
+
+Top level modules:
+	IBUFDS
+
+} {} {}}

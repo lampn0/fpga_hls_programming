@@ -1,0 +1,8 @@
+{/home/lam/data2/lampn182628/embedded system/assignment/fpga_hls_programming/sim/divider/tb_divider.v} {1 {vlog -work work -vopt -stats=none {/home/lam/data2/lampn182628/embedded system/assignment/fpga_hls_programming/sim/divider/tb_divider.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module tb_divider
+
+Top level modules:
+	tb_divider
+
+} {} {}}
